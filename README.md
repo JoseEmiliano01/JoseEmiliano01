@@ -12,7 +12,7 @@ This is Emiliano, or Ardetha as my Nickname. I am a programming student.
 
 # Github default README stuff...
 
-- I'm currently working on...[This repository](https://github.com/SonJiren/services)
+- I'm currently working on...A repository.
 
 - I'm currently learning... Laravel and other languages like GameMaker and RPGMaker (These count as languages or???)
 
